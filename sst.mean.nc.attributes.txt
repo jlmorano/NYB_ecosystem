@@ -1,0 +1,24 @@
+$Conventions
+[1] "CF-1.5"
+
+$title
+[1] "NOAA/NCEI 1/4 Degree Daily Optimum Interpolation Sea Surface Temperature (OISST) Analysis, Version 2.1"
+
+$institution
+[1] "NOAA/National Centers for Environmental Information"
+
+$source
+[1] "NOAA/NCEI https://www.ncei.noaa.gov/data/sea-surface-temperature-optimum-interpolation/v2.1/access/avhrr/"
+
+$References
+[1] "https://www.psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html"
+
+$dataset_title
+[1] "NOAA Daily Optimum Interpolation Sea Surface Temperature"
+
+$version
+[1] "Version 2.1"
+
+$comment
+[1] "Reynolds, et al.(2007) Daily High-Resolution-Blended Analyses for Sea Surface Temperature (available at https://doi.org/10.1175/2007JCLI1824.1). Banzon, et al.(2016) A long-term record of blended satellite and in situ sea-surface temperature for climate monitoring, modeling and environmental studies (available at https://doi.org/10.5194/essd-8-165-2016). Huang et al. (2020) Improvements of the Daily Optimum Interpolation Sea Surface Temperature (DOISST) Version v02r01, submitted.Climatology is based on 1971-2000 OI.v2 SST. Satellite data: Pathfinder AVHRR SST and Navy AVHRR SST. Ice data: NCEP Ice and GSFC Ice."
+
